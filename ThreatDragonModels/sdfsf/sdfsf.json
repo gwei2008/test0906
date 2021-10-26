@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "sdfsf",
+    "owner": "sdfsf",
+    "description": "sdfsf"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "sdfsf"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "sdfsf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "sdfsf"
+  }
+}
